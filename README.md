@@ -1,2 +1,3 @@
 # nlp-spam-classification
-ds5220 (supervised learned) programming assignment 2
+
+Simple spam classifier using NLP for text cleaning and various supervised learning models.
